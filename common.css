@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(background.png);
+   
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+ul li{
+    list-style: none;
+    display: inline-flex;
+    justify-content: center;
+    margin: 0 20px;
+    padding: 0 20px;
+    text-align: justify;
+    font-size: 22px;
+    font-family: 'Schoolbell', cursive;
+
+}
+li:hover{
+    font-size: 27px;
+}
+ul{
+   background-color: whitesmoke;
+   height: 10vh;
+   
+    display: flex;
+    align-items: center;
+   justify-content: right;
+}
+
+.hlo{
+    background-color: whitesmoke ;
+    height: 530px;
+  width: 900px;
+  margin-left: 330px;
+  margin-top: 85px;
+
+}
+.hlo1{
+    padding: 30px;
+    font-family:  cursive;
+    font-size: 25px;
+
+}
+
+.edu{
+    background-color: whitesmoke ;
+    height: 228px;
+  width: 582px;
+  margin-left: 504px;
+  margin-top: 180px;
+}
+.edu1{
+    padding: 30px;
+    font-family:  cursive;
+    font-size: 20px;
+}
+
+.sk{
+    background-color: whitesmoke ;
+    height: 280px;
+  width: 900px;
+  margin-left: 330px;
+  margin-top: 170px;
+
+}
+.sk1{
+    padding: 30px;
+    font-family:  cursive;
+    font-size: 22px;
+}
+
+.exp{
+    background-color: whitesmoke ;
+    height: 480px;
+  width: 900px;
+  margin-left: 330px;
+  margin-top: 98px;
+
+}
+.exp1{
+    padding: 30px;
+    font-family:  cursive;
+    font-size: 22px;
+}
+
+.pro{
+    background-color: whitesmoke ;
+    height: 370px;
+  width: 900px;
+  margin-left: 330px;
+  margin-top: 150px;
+
+}
+.pro1{
+    padding: 30px;
+    font-family:  cursive;
+    font-size: 22px;
+}
+
+.ach{
+    background-color: whitesmoke ;
+    height: 510px;
+  width: 900px;
+  margin-left: 330px;
+  margin-top: 92px;
+
+}
+.ach1{
+    padding: 30px;
+    font-family:  cursive;
+    font-size: 24px;
+}
+
+
+
+
+.query {
+    background-color: whitesmoke ;
+    height: 228px;
+  width: 582px;
+  margin-left: 504px;
+  margin-top: 180px;
+}
+    
+.con{
+    padding: 20px;
+   font-family:  cursive;
+
+}
+p{
+    padding-top: 30px;
+}
